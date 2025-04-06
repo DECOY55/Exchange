@@ -7,5 +7,9 @@ RUN apt-get update && apt-get install -y \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/* \
     && docker-php-ext-install pdo_mysql
+# Debug: List files in root and db_cryptostudio/
+RUN ls -la /app
+RUN ls -la /app/db_cryptostudio
 EXPOSE 8000
-CMD ["php", "-S", "0.0.0.0:8000", "-t", "db_cryptostudio/"]
+# Debug: Log PHP version and confirm server start
+CMD php --version && echo "Starting PHP server..." && php -S 0.0.0.0:8000 -t .
