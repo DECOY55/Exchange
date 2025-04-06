@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: exchange
+    env: docker
+    healthCheckPath: /health.php
+    autoDeploy: true
