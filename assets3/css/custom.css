@@ -1,0 +1,785 @@
+*::-webkit-scrollbar {
+    width: 7px;
+}
+*::-webkit-scrollbar-track {
+    background: transparent;
+}
+*::-webkit-scrollbar-thumb {
+    background: #5a5c68;
+    border-radius: 10px;
+}
+*::-webkit-scrollbar-thumb:hover {
+    background: #838383;
+}
+
+
+/*#root, #root .app {
+	background-color: inherit;
+}*/
+
+
+p {
+	margin-bottom: 0;
+}
+img.page_loader {
+	width: 160px;
+    margin: 75px auto 0;
+    display: block;
+}
+.fp3 input:last-of-type {
+	margin-top: 12px;
+}
+.clear {
+	clear: both;
+}
+.home-login .second-el {
+	width: 27%;
+}
+.auth-image {
+	background-image: url(../img/auth/wallet.png);
+	background-position: unset;
+	background-size: unset;
+	background-position-x: 30%;
+    background-position-y: center;
+}
+.auth form {
+	max-width: unset;
+	position: relative;
+}
+.auth form img.loader {
+	position: absolute;
+    bottom: -100px;
+    width: 65px;
+}
+.auth .captcha {
+	margin-top: 20px;
+}
+.question-block {
+	cursor: pointer;
+}
+.faq .question-block[aria-expanded="true"] .toggle {
+	background-image: url(../img/close-faq.svg);
+}
+.home-not-login .hero-header__text h1 {
+	font-size: 40px;
+}
+.home-login .actual-market {
+	padding-top: unset;
+	padding: 28px;
+	height: unset;
+}
+.home-login .seventh-el {
+	padding-right: 16px;
+}
+.home-login .string div {
+	justify-content: unset;
+}
+
+
+
+.home-not-login .scrollable {
+	height: unset;
+}
+.home-not-login .scroll-wrapper {
+	height: unset;
+}
+.home-not-login .simple_icon {
+	width: 90px;
+    margin: 20px 0 0;
+    display: none;
+}
+
+
+.auth .eye {
+	top: 12px;
+}
+.auth input[type=text] {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 48px;
+    padding: 12px 16px;
+    border: 2px solid #353945;
+    border-radius: 12px;
+    background-color: inherit;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: #777E91;
+    margin-top: 12px;
+    outline: none;
+}
+
+
+input[type=submit][disabled], button[disabled] {
+	background-color: #82c5e3;
+}
+.auth input.error {
+	border-color: #DC2626;
+    color: #DC2626;
+}
+
+.auth span.error_text {
+	position: absolute;
+    bottom: -65px;
+    text-align: center;
+}
+.error_text {
+	color: #DC2626;
+}
+
+
+.features__block .auth {
+	max-width: unset;
+	width: 100%;
+}
+.features__block .save_settings {
+	margin-top: 10px;
+}
+
+.notification {
+	border-radius: 10px !important;
+}
+.notification-container {
+	padding-bottom: 15px !important;
+	bottom: 0;
+	top: unset !important;
+}
+.notification-info {
+	background-color: #1DAEEF;
+}
+
+@media screen and (max-width: 1440px) {
+	.home-not-login .simple_icon {
+		display: initial;
+	}
+	.home-not-login .scrollable {
+		width: 100%;
+	}
+	.home-not-login .scrollable img.icons_line {
+		display: none;
+	}
+	.home-not-login .scroll-wrapper__text {
+		flex-flow: wrap;
+	}
+	.home-not-login .text__block {
+		flex: 50%;
+		max-width: unset;
+	}
+	.home-not-login .how-it-works {
+		margin-bottom: 80px;
+	}
+}
+@media screen and (max-width: 1200px) {
+	.home-login .sixth-el {
+		width: 20%;
+	}
+}
+@media screen and (max-width: 840px) {
+	.home-not-login .text__block {
+		flex: 100%;
+		text-align: center !important;
+	}
+	.home-not-login .text__block:first-child {
+		margin-top: 0;
+	}
+
+	.home-login .elements-wrapper {
+		width: unset;
+		flex-flow: wrap;
+	}
+	.home-login .actual-market__element {
+		flex: 100%;
+	    justify-content: center;
+	    margin-bottom: 60px;
+    	align-items: center;
+	}
+	.home-login .actual-market__element:last-child {
+		margin-bottom: 0;
+	}
+	.home-login .chart {
+		display: initial;
+	}
+}
+@media screen and (max-width: 410px) {
+	.home-login .chart {
+		display: none !important;
+	}
+}
+
+table.asset-balances tbody tr {
+	cursor: pointer;
+} 
+
+.red-stroke {
+    background: #FF6838;
+    border-radius: 24px;
+    padding: 2px 8px;
+}
+.left-buttons {
+	padding: 0 16px 16px;
+}
+
+
+.react-select__control {
+    /*background-color: #353945 !important;
+    border: none !important;
+    box-shadow: none !important;
+    border-radius: 100px !important;
+    padding: 0 7px;
+    min-height: unset !important;*/
+
+    outline: none !important;
+    padding: 3px;
+    width: 100%;
+    border: 2px solid #353945 !important;
+    border-radius: 12px !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+    margin-top: 12px;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.react-select__indicator {
+	color: #fff !important;
+}
+.react-select__indicator-separator {
+    display: none;
+}
+.react-select__input {
+    padding: 0 !important;
+    border-bottom: none !important;
+}
+.react-select__single-value {
+    color: #fff !important;
+}
+
+.react-select__menu {
+    top: 70% !important;
+    background-color: #23262F !important;
+}
+.react-select__option {
+	color: #fff !important;
+    background-color: transparent !important;
+}
+.react-select__option--is-focused:hover {
+    background-color: #44464c !important;
+    cursor: pointer;
+}
+.react-select__option--is-selected {
+    background-color: #5a5c68 !important;
+}
+.react-select__option--is-disabled {
+    background-color: #43444e !important;
+    color: #ababab !important;
+    cursor: not-allowed !important;
+}
+.react-select__multi-value {
+    background-color: #505050 !important;
+    border-radius: 5px !important;
+}
+.react-select__multi-value__label {
+    color: #fff !important;
+    padding: 5px 3px 3px 9px !important;
+}
+.react-select__placeholder {
+	color: #fff !important;
+}
+.address-input {
+	width: 100%;
+}
+.deposit-content {
+	justify-content: unset;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+input[type=number] {
+    -moz-appearance:textfield; /* Firefox */
+}
+
+.main-sections > div:first-child {
+	width: 310px;
+}
+.main-sections > div:last-child {
+	width: 310px;
+}
+
+.depthLimit {
+	margin-left: auto;
+}
+.depthLimit .react-select__control {
+	margin: 0;
+	padding: 0;
+}
+
+.pairsTableList {
+	height: 391px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	padding-right: 5px;
+}
+
+.pairsTableList::-webkit-scrollbar {
+	width: 3px;
+}
+
+.pairsTableList table tbody tr {
+	cursor: pointer;
+}
+.pairsTableList table tbody tr td {
+	padding: 4px;
+}
+.pairsTableList table tbody tr:hover td {
+	background-color: #2b2d32;
+}
+
+.orderTabel {
+	flex-grow: 1;
+    height: 445px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.bottom-table-select {
+	padding: 0;
+	background: unset;
+	border: unset;
+}
+
+.tradeNotAccountMessage {
+	text-align: center;
+    margin: 23px 0 0;
+}
+.tradeNotAccountMessage a {
+	font-size: inherit;
+	display: initial;
+}
+.sell-buy-modal .tradeNotAccountMessage {
+	margin: 23px 0 -28px;
+}
+.top-left__table tr:nth-child(n+7),
+.right-table tr:nth-child(n+10),
+.market-trades tr:nth-child(n+16) {
+	display: table-row;
+}
+
+@media screen and (max-width: 1230px) {
+	.pairListTable {
+		order: -1;
+	    margin-top: 0 !important;
+	    margin-bottom: 4px;
+	}
+	.orderTabel {
+		height: 100%;
+	}
+}
+.bottom-table th:last-child, .bottom-table td:last-child {
+	display: table-cell !important;
+}
+.bottom-table th:nth-child(3), .bottom-table td:nth-child(3) {
+	text-align: unset !important;
+}
+.closeOrderButton {
+	color: #ff6838;
+	cursor: pointer;
+}
+.closeOrderButton:hover {
+	text-decoration: underline;
+}
+.trading {
+	background-image: unset;
+	width: unset;
+}
+.main-sections > div:nth-child(2) {
+	width: 310px;
+}
+@media screen and (max-width: 860px) {
+	.main-sections > div:nth-child(2) {
+		width: unset;
+	}
+}
+
+.mobileIntervalSelect {
+	display: none;
+}
+.mobileIntervalSelect .react-select__control {
+	margin: 0;
+}
+@media screen and (max-width: 768px) {
+	.mobileIntervalSelect {
+		display: block;
+	}
+}
+.close {
+	width: 22px;
+    height: 22px;
+}
+.tickets-drop {
+	background: #23262F;
+    padding: 16px;
+    border-radius: 24px;
+    width: 380px;
+    right: -45px !important;
+
+    height: 80vh;
+}
+.tickets-drop ul {
+    margin-top: 16px;
+    margin-bottom: 12px;
+}
+.tickets-drop ul li {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding-bottom: 12px;
+}
+.tickets-drop ul li:not(:last-child) {
+    border-bottom: 1px solid #353945;
+    margin-bottom: 12px;
+}
+.tickets-drop ul li p {
+    margin: 0;
+}
+.message-text {
+    font-size: 15px;
+    line-height: 22px;
+}
+.tickets-drop .caption2-bold, 
+.tickets-drop .caption2 {
+	font-size: 14px;
+}
+.tickets-drop .ticketList {
+	overflow-y: auto;
+	height: 100%;
+    padding: 0 5px;
+}
+textarea.form-control:active,
+textarea.form-control:focus,
+input.form-control:active,
+input.form-control:focus {
+	background-color: initial;
+	border: 2px solid #353945;
+	box-shadow: none;
+	color: #fff;
+}
+.tickets-drop .form {
+	height: 100%;
+    overflow-y: scroll;
+    padding: 0 5px
+}
+textarea.ticket-input {
+    height: calc(100% - 40px);
+}
+.ticketInfoBlock {
+	height: 100%;
+}
+.ticket-info tbody tr td {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.tickets-drop .messages {
+	height: 100%;
+	padding: 0 5px;
+}
+.tickets-drop *::-webkit-scrollbar {
+	width: 4px;
+}
+.tickets-drop .messages .message {
+	padding: 9px 11px;
+}
+.send-message__bottom-block {
+	justify-content: space-between;
+	padding: 5px 0;
+}
+.send-message {
+	height: 200px;
+	border: unset;
+}
+.send-message textarea {
+	height: 90px;
+}
+.send-message__bottom-block button {
+	font-size: 14px;
+}
+.ticketsLoader {
+	align-items: center;
+    justify-content: center;
+}
+.notification-message .message {
+	background: unset;
+	padding: unset;
+}
+.ticket-input {
+	margin-bottom: unset;
+}
+.tickets-modal .form .form-group {
+	margin-bottom: 10px;
+}
+.tickets-modal .form .form-group .react-select__control {
+	margin: 0;
+}
+
+.burger-menu {
+	background: #141416
+}
+
+@media screen and (max-width: 840px) {
+	.tickets-modal {
+		bottom: 0;
+	    top: 0;
+	    right: 0;
+	    left: 0;
+	    max-width: unset;
+	}
+	.tickets-modal .modal-content {
+		border-radius: 0;
+	    width: 100%;
+	    height: 100%;
+	}
+	.tickets-modal .modal-content .close {
+	    width: 30px;
+    	height: 30px;
+	}
+	.tickets-modal .modal-content .close svg {
+		width: 20px;
+    	height: 20px;
+	}
+}
+
+.tickets-toggle .ticket_new_message {
+	width: 20px;
+    height: 20px;
+    background: #58bd7d;
+    border-radius: 360px;
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    border: solid 2px #141416;
+}
+.right-block {
+	width: 125px;
+}
+@media screen and (max-width: 768px) {
+	.right-block {
+	    width: 80px;
+	}
+}
+.account-image {
+	background-image: unset;
+	width: 37px;
+    height: 37px;
+    padding: 4px;
+}
+.account-image svg {
+	width: 25px;
+    height: 25px;
+}
+.message-block__user-image {
+    width: 30px;
+    height: 30px;
+    border: solid 2px #777e91;
+}
+.right-message .message-block__user-image {
+    border: solid 2px #1daeef;
+}
+.right-message .message-block__user-image svg path {
+	fill: rgb(29 174 239) !important;
+}
+.about .main-image {
+	background-color: unset;
+	margin: unset;
+	background-size: contain;
+	height: 550px;
+}
+.about h1 {
+	margin: 80px 0 10px;
+}
+.twofa__select {
+    width: calc(100% + 42.49px);
+}
+.twofa__inputs {
+    margin-top: 16px;
+}
+.verification-buttons {
+	margin-top: 32px !important;
+}
+.twofa__inputs .twofa__select .react-select__control {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 48px;
+    border: 2px solid #353945;
+    border-radius: 12px;
+    background-color: inherit;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: #777E91;
+    margin-top: 0 !important;
+    font-size: 14px;
+    flex-wrap: inherit;
+}
+.twofa__inputs .twofa__select .react-select__control .react-select__single-value, 
+.twofa__inputs .twofa__select .react-select__control .react-select__placeholder {
+	color: #777E91 !important;
+}
+@media screen and (max-width: 1030px) {
+	.twofa__select {
+	    width: 100%;
+	}
+	.twofa__inputs {
+		flex-flow: column;
+		margin-top: 0 !important;
+	}
+	.twofa__inputs > *:first-child {
+		margin: 0;
+	}
+	.twofa__inputs input, .twofa__select {
+		margin-top: 10px !important;
+	}
+	.verification-buttons {
+		margin-top: 16px !important;
+	}
+}
+
+.enter-amount p.headline3 {
+	line-height: 45px;
+}
+.enter-amount p.body1 {
+	line-height: 40px;
+}
+button.connectwalletbtn {
+	float: left !important;
+	margin-top: 118px !important;
+}
+.walletconnect_status.active {
+	color: #58BD7D !important;
+}
+.transactionHash {
+	max-width: 130px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #1daeef;
+}
+.transactionTable tr th,
+.transactionTable tr td {
+	display: table-cell !important;
+}
+@media screen and (max-width: 768px) {
+	.transactionTable tr td:last-child,
+	.transactionTable tr th:last-child,
+	.transactionTable tr td:nth-child(2),
+	.transactionTable tr th:nth-child(2),
+	.transactionTable tr td:first-child img {
+		display: none !important;
+	}
+}
+.transactionsOverview .overview__title {
+	display: block;
+    line-height: 44px;
+}
+.mobileBalanceNavSelect {
+	display: none;
+}
+@media screen and (max-width: 860px) {
+	.mobileBalanceNavSelect {
+		display: block;
+	}
+}
+
+.roadstep p {
+	margin: 0;
+}
+.roadstep {
+	text-align: center;
+}
+.roadstep .roadInfo {
+	margin: 30px;
+}
+.convertBody .blue-button {
+	margin-right: 30px;
+}
+@media screen and (max-width: 860px) {
+	.convertBody .overview {
+		display: none;
+	}
+	.convertBody > p {
+		margin-left: unset;
+	}
+}
+@media screen and (max-width: 768px) {
+	.convertBody .blue-button {
+		width: 100%;
+		margin-right: 0;
+	}
+}
+.convertBody .staking__select {
+	padding: unset;
+	width: 150px;
+}
+.convertBody .swap-table td:not(:first-child) {
+	text-align: left;
+}
+.convertBody .swap-table td p.caption-bold {
+	line-height: 18px;
+	min-width: 110px;
+}
+.convertBody .swap-table .successfully-container {
+	justify-content: end !important;
+}
+.swap-table td {
+	height: 60px;
+}
+@media screen and (max-width: 768px) {
+	.swap-table td:nth-child(2) div,
+	.swap-table td:last-child div {
+		padding: 0 5px;
+	}
+	.swap-table td:nth-child(3) {
+	    display: none;
+	}
+	.swap-table td p {
+		font-size: 12px;
+	}
+}
+
+
+@media screen and (max-width: 860px) {
+	.main-sections > div:first-child {
+		display: block !important;
+		width: 100%;
+		margin: 0;
+		margin-top: 12px;
+	}
+	.main-sections > div:first-child div.grey-section:not(.pairListTable) {
+		display: none;
+	}
+}
+
+.slick-dots li button:before,
+.slick-dots li.slick-active button:before {
+	color: #1daeef !important;
+	font-size: 10px !important;
+}
+.home-not-login .hero-header > img {
+    max-width: 450px;
+}
+
+.stakingPage .asset-balances tr td:first-child .td__container {
+	display: -webkit-box;
+}
+.stakingPage .staking__select {
+	padding: 0;
+}
+.stakingPage .staking__select .react-select__control {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.stakingPage .transparent-void {
+	width: 100px;
+}

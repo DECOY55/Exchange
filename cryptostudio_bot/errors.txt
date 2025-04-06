@@ -1,0 +1,698 @@
+fopen(users/759863584/time.txt): Failed to open stream: No such file or directory = /cryptostudio_bot/_set.php = 1071
+fopen(users/759863584/time.txt): Failed to open stream: No such file or directory = /cryptostudio_bot/_set.php = 1071
+fopen(users/759863584/time.txt): Failed to open stream: No such file or directory = /cryptostudio_bot/_set.php = 1071
+fopen(users/759863584/time.txt): Failed to open stream: No such file or directory = /cryptostudio_bot/_set.php = 1071
+fopen(users/759863584/time.txt): Failed to open stream: No such file or directory = /cryptostudio_bot/_set.php = 1071
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 73
+Undefined array key "text" = /cryptostudio_bot/cryptostudio_bot.php = 39
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "message" = /cryptostudio_bot/cryptostudio_bot.php = 20
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "message" = /cryptostudio_bot/cryptostudio_bot.php = 20
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 220
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 81
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 87
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 81
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 87
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 81
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 87
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 220
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 81
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 87
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 69
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 69
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 70
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "message" = /cryptostudio_bot/cryptostudio_bot.php = 20
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "message" = /cryptostudio_bot/cryptostudio_bot.php = 20
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 82
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 88
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 82
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 88
+SQLite3::query(): table promocodes has no column named tg_id = /cryptostudio_bot/_config.php = 25
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 82
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 88
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 82
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 88
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 82
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 88
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 82
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 88
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 82
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 88
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+Undefined variable $t = /cryptostudio_bot/cryptostudio_bot.php = 315
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 82
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 88
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 82
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 88
+SQLite3::query(): table promocodes has no column named tg_id = /cryptostudio_bot/_config.php = 25
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 82
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 88
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+SQLite3::prepare(): Unable to prepare statement: 1, no such column: tg_id = /cryptostudio_bot/_config.php = 82
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 88
+SQLite3::query(): table promocodes has no column named tg_id = /cryptostudio_bot/_config.php = 25
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 88
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+SQLite3::prepare(): Unable to prepare statement: 1, no such table: promocodes = /cryptostudio_bot/_config.php = 87
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 93
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+SQLite3::prepare(): Unable to prepare statement: 1, no such table: promocodes = /cryptostudio_bot/_config.php = 87
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 93
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+SQLite3::prepare(): Unable to prepare statement: 1, no such table: promocodes = /cryptostudio_bot/_config.php = 87
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 93
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+SQLite3::prepare(): Unable to prepare statement: 1, no such table: promocodes = /cryptostudio_bot/_config.php = 87
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 93
+Undefined variable $id_db = /cryptostudio_bot/_config.php = 74
+SQLite3::query(): Unable to prepare statement: 1, no such table: users = /cryptostudio_bot/_config.php = 75
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+SQLite3::prepare(): Unable to prepare statement: 1, no such table: promocodes = /cryptostudio_bot/_config.php = 87
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 93
+Undefined variable $id_db = /cryptostudio_bot/_config.php = 74
+SQLite3::query(): Unable to prepare statement: 1, no such table: users = /cryptostudio_bot/_config.php = 75
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+SQLite3::prepare(): Unable to prepare statement: 1, no such table: promocodes = /cryptostudio_bot/_config.php = 87
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 93
+Undefined variable $id_db = /cryptostudio_bot/_config.php = 74
+SQLite3::query(): Unable to prepare statement: 1, no such table: users = /cryptostudio_bot/_config.php = 75
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+SQLite3::prepare(): Unable to prepare statement: 1, no such table: promocodes = /cryptostudio_bot/_config.php = 87
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 93
+Undefined variable $id_db = /cryptostudio_bot/_config.php = 74
+SQLite3::query(): Unable to prepare statement: 1, no such table: users = /cryptostudio_bot/_config.php = 75
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+SQLite3::prepare(): Unable to prepare statement: 1, no such table: promocodes = /cryptostudio_bot/_config.php = 87
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 93
+Undefined variable $id_db = /cryptostudio_bot/_config.php = 74
+SQLite3::query(): Unable to prepare statement: 1, no such table: users = /cryptostudio_bot/_config.php = 75
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+SQLite3::prepare(): Unable to prepare statement: 1, no such table: promocodes = /cryptostudio_bot/_config.php = 87
+Undefined variable $get_info = /cryptostudio_bot/_config.php = 93
+Undefined variable $id_db = /cryptostudio_bot/_config.php = 74
+SQLite3::query(): Unable to prepare statement: 1, no such table: users = /cryptostudio_bot/_config.php = 75
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+Undefined variable $id_db = /cryptostudio_bot/_config.php = 74
+SQLite3::query(): Unable to prepare statement: 1, no such table: users = /cryptostudio_bot/_config.php = 75
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 218
+Undefined variable $id_db = /cryptostudio_bot/_config.php = 74
+SQLite3::query(): Unable to prepare statement: 1, no such table: users = /cryptostudio_bot/_config.php = 75
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined variable $id_db = /cryptostudio_bot/_config.php = 74
+SQLite3::query(): Unable to prepare statement: 1, no such table: users = /cryptostudio_bot/_config.php = 75
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "back" = /cryptostudio_bot/cryptostudio_bot.php = 222
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47
+Undefined array key "id" = /cryptostudio_bot/cryptostudio_bot.php = 44
+Undefined array key "photo" = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Trying to access array offset on value of type null = /cryptostudio_bot/cryptostudio_bot.php = 46
+Undefined array key "new_chat_member" = /cryptostudio_bot/cryptostudio_bot.php = 47

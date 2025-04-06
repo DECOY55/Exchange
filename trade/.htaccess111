@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^trade/([^_]+)/([^_/]+)/?$ trade.php?base_currency=$1&quote_currency=$2 [L]

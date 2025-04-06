@@ -1,0 +1,53 @@
+#Блокируем доступ к сайту
+#order deny,allow
+#deny from all
+
+# Включаем отображение ошибок
+php_flag display_errors On
+php_value error_reporting E_ALL
+
+# Логирование ошибок
+php_flag log_errors On
+php_value error_log errors/info_log_cryptostudio.txt
+
+
+RewriteEngine On
+
+# login/register
+RewriteRule ^login?$ / [L]
+RewriteRule ^register?$ / [L]
+
+# balance
+RewriteRule ^balance/convert?$ /balance [L]
+RewriteRule ^balance/staking?$ /balance [L]
+RewriteRule ^balance/transactions?$ /balance [L]
+# profile
+RewriteRule ^profile/?$ /balance [L]
+RewriteRule profile/promocode /balance [L]
+RewriteRule profile/verification /balance [L]
+RewriteRule profile/blockchain /balance [L]
+RewriteRule profile/sessions /balance [L]
+
+RewriteRule ^trade?$ /trade/BTC_USDT [L]
+
+RewriteRule ^trade/(\w+)_(\w+)$ /index [L]
+RewriteCond %{QUERY_STRING} ^json=1$
+RewriteRule ^trade/(\w+)_(\w+)/?$ /trade/info.php?ticker=$1&ticker2=$2 [L]
+
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# Добавьте условие для проверки наличия файла
+RewriteCond %{REQUEST_FILENAME} !-f
+# Добавьте условие для проверки наличия каталога
+RewriteCond %{REQUEST_FILENAME} !-d
+# Правило для обработки запросов вида domain/trade/BTC_USDT/?json=1
+#RewriteCond %{QUERY_STRING} ^json=1$
+#RewriteRule ^trade/([^_]+)/([^_/]+)/?$ trade.php?base_currency=$1&quote_currency=$2 [L]
+
+ErrorDocument 404 /404.php
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /404.php [L]
